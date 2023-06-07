@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /holbertonschool-zero_day/git/holbertonschool-shell/basics/holbertonschool-shell/basics /boot 
+ls -la . /boot
